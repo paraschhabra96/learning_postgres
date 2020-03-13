@@ -8,6 +8,6 @@ There are no major differences between the primary key and unique constraint in 
 Ref: https://www.geeksforgeeks.org/difference-between-primary-key-and-unique-key/
 
 ## Video Links
-https://www.youtube.com/watch?v=qw--VYLpxG4&t=7528s
+https://www.youtube.com/watch?v=qw--VYLpxG4&t=7528s ( Read till 03:17 )
 
 ## Web Links
